@@ -1,1 +1,3 @@
-# Testing new GitHub Pages repo
+# Testing GitHub Pages...
+
+## [About Me](bio.md)
